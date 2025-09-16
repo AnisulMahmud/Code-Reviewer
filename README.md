@@ -24,18 +24,19 @@ A web app that uses a Large Language Model (LLM) to automatically review code, d
 git clone https://github.com/AnisulMahmud/Code-Reviewer.git
 cd Code-Reviewer
 
-Backend
+**Backend** 
 - cd Backend
 - npm install
 - create .env with:
 - GOOGLE_API_KEY=your_key_here
 - npx nodemon 
 
-Frontend
+**Frontend**
 - cd ../Frontend
 - npm install
 - npm run dev
 
+**Screenshot**
 
 Screenshot: live code editor (left) and LLM-generated review (right).
 
