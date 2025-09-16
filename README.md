@@ -22,7 +22,8 @@ A web app that uses a Large Language Model (LLM) to automatically review code, d
 **Clone**
 ```bash
 git clone https://github.com/AnisulMahmud/Code-Reviewer.git
-cd Code-Reviewer
+cd Code-Reviewer 
+```
 
 **Backend** 
 - cd Backend
@@ -37,7 +38,6 @@ cd Code-Reviewer
 - npm run dev
 
 **Screenshot**
-
 Screenshot: live code editor (left) and LLM-generated review (right).
 
 ![alt text](image.png)
